@@ -5,8 +5,8 @@
 ```
 D: FS Total 2949250, used 1004
 D: /radio.ini                       -     688
-D: Added SSID 00 = matador to acceptable networks
-D: Added SSID 01 = matador_EXT to acceptable networks
+D: Added SSID 00 = tador to acceptable networks
+D: Added SSID 01 = tador_EXT to acceptable networks
 D: * Scan Networks *
 D: Number of available networks: 8
 D:  1 - OTE364A79                 Signal: -83 dBm Encryption Auto  
