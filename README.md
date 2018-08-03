@@ -3,7 +3,6 @@
 ## Sample output
 
 ```
-⸮
 D: FS Total 2949250, used 1004
 D: /radio.ini                       -     688
 D: Added SSID 00 = matador to acceptable networks
@@ -68,5 +67,4 @@ D: 1B CC 3D 22 4F 0C 91 6B
 D: 7B 85 09 11 E9 56 A1 2E
 
 ```
-
 
