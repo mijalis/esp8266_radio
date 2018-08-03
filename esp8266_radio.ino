@@ -1,5 +1,3 @@
-#include <TinyXML.h>
-
 //******************************************************************************************
 //*  Esp_radio -- Webradio receiver for ESP8266, 1.8 color display and VS1053 MP3 module,  *
 //*               by Ed Smallenburg (ed@smallenburg.nl)                                    *
